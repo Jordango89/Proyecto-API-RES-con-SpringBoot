@@ -2,7 +2,7 @@
 ---
 ## Topics :memo:
 
-:open_file_folder: Este repositorio contiene los siguientes temas:
+Este repositorio contiene los siguientes temas:
 
 1. Contexto de la API
 2. Tecnologías empleadas.
@@ -133,7 +133,7 @@ Obtener todos los pacientes
 Obtener el paciente por id
 ![Obtener el paciente por id!](./src/img/ImgPacientes/get-paciente-id.png)
 
-Obtener todos los pacientes con citas
+Obtener todas las citas de un paciente en especifico
 ![Obtener todos los pacientes con citas!](./src/img/ImgPacientes/get-citas-paciente-id.png)
 
 Crear paciente
@@ -155,7 +155,7 @@ Obtener todos los doctores
 Obtener el doctor por id
 ![Obtener el doctor por id!](./src/img/imgDoctores/getDoctoresByID.jpeg)
 
-Obtener todos los doctores con citas programadas
+Obtener todos los doctores por especialidad
 ![Obtener todos los doctores con citas programadas!](./src/img/imgDoctores/getDoctoresByEspecialidad.jpeg)
 
 Obtener las citas programadas del doctor por id
